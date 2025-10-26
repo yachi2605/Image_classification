@@ -1,1 +1,2 @@
-[Open PDF](./Report.pdf)
+[Open PDF](/Report.pdf)
+
